@@ -1,16 +1,17 @@
-## Hi there 👋
+# Sobre mi
 
-<!--
-**Gabriel-castaned/Gabriel-castaned** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! 👋 Trabajo en una empresa de hosting, donde me especializo en la gestión y administración de servidores. 
 
-Here are some ideas to get you started:
+## Que hago
+Utilizo paneles de control como cPanel y Plesk para facilitar la administración de los servicios de hosting, asegurando una experiencia eficiente y segura para nuestros clientes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## Hosting panels
+<img src="https://cpanel.net/wp-content/themes/cPbase/assets/img/logos/cp-orange.png" width="50" height="auto">
+<img src="https://cdn1.plesk.com/wp-content/uploads/2017/05/27012542/plesk_logo_primary_positive_.jpg" width="50" height="auto">
+
+
+
+## How to Reach Me
+- Email: [gabriel@gmail.com](mailto:gabriel@gmail.com)
