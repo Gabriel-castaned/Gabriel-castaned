@@ -15,3 +15,4 @@ Utilizo paneles de control como cPanel y Plesk para facilitar la administración
 
 ## How to Reach Me
 - Email: [gabriel@gmail.com](mailto:gabriel@gmail.com)
+# ejercicio-python
