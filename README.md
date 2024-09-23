@@ -1,7 +1,6 @@
 # Sobre mi
 
-Hi! 👋 Trabajo en una empresa de hosting, donde me especializo en la gestión y administración de servidores. 
-
+Hi! 👋 Trabajo en una empresa de hosting.
 ## Que hago
 Utilizo paneles de control como cPanel y Plesk para facilitar la administración de los servicios de hosting, asegurando una experiencia eficiente y segura para nuestros clientes.
 
